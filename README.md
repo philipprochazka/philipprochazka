@@ -7,7 +7,7 @@
 <a href="https://domovdecor.cz" target="_blank">home decor stuff</a>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipprochazka&label=Profile%20views&color=0e75b6&style=flat" alt="philipprochazka" /> </p>
-<img align="center" src="" alt="PhilipProcházka" height="840" width="560" /></
+<img align="center" src="https://github.com/philipprochazka/philipprochazka/blob/main/sm2191.jpg" alt="PhilipProcházka" height="840" width="560" /></
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/PhilipProcházka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="PhilipProcházka" height="30" width="40" /></a>
