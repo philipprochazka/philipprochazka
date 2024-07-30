@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/philipprochazka/philipprochazka/blob/main/meow_wave_peak.png" height="32"/>, I'm Philip Procházka</h1>
-<h3 align="center">Designer, server administrator as entrepreneur at Domov-Decor & Turbosoft</h3>
+<h3 align="center">Designer, server administrator as entrepreneur.</h3>
 <p>I go by he/his pronoun; in my day-to-day life, you can find me solving common dilemmas that I get. I've been Messing around Computers and IT Networks and generally Electronics since early childhood and I continue to do so with eager & passion. During my career, I had the pleasure to work with several different companies and amazing colleagues who guided me along the way. Besides Product-Photography & Scalable graphics I had to learn for work, I also try to spend my time coding for good, I love searching for extreme gimmicks & implementing them to anything Linux & Windows,FreeBSD,Android  simply anywhere.I did hoard over the years  Various tweaks and other gems for the variety of knowledge I did learn. I love designing creating environments for unique applications.
   I always strive to create entertainment & goodies for me & my beloved ones.
   If you're interested in finding out more about me and my work, you can check out <a href="https://philipprochazka.cz" target="_blank">my portfolio</a>.</p>
