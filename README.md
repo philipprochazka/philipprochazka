@@ -4,8 +4,9 @@
   I always strive to create entertainment & goodies for me & my beloved ones.
   If you're interested in finding out more about me and my work, you can check out <a href="https://philipprochazka.cz" target="_blank">my portfolio</a>.</p>
 
+<a href="https://domovdecor.cz" target="_blank">home decor stuff</a>.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yannick1691&label=Profile%20views&color=0e75b6&style=flat" alt="yannick1691" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=philipprochazka&label=Profile%20views&color=0e75b6&style=flat" alt="philipprochazka" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
