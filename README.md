@@ -4,7 +4,7 @@ I go by he/his pronoun; in my day-to-day life, you can find me solving common di
   I always strive to create entertainment & goodies for me & my beloved ones.
   <!-- <p>If you're interested in finding out more about me and my work, you can check out <a href="https://philipprochazka.cz" target="_blank">my portfolio</a>.</p> -->
 
-<a href="https://domovdecor.cz" target="_blank">home decor stuff</a>.</p>
+<a href="https://domov-decor.cz" target="_blank">home decor stuff</a>.</p>
 <a href="https://www.facebook.com/DomovDecor" target="blank"><img align="center" src="https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-6/274481586_5082288761833906_6275847687259659249_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=PHk0Qhx7s8oQ7kNvgHkvS6p&_nc_ht=scontent-prg1-1.xx&oh=00_AYBA6zIGbuqVUT73HheleeaqjNqjG6QNMKzLGVLPPoKKGA&oe=66B83C4B" alt="Domov-Decor fb" height="70" width="´70" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipprochazka&label=Profile%20views&color=0e75b6&style=flat" alt="philipprochazka" /> </p>
