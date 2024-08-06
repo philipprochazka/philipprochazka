@@ -5,7 +5,8 @@ I go by he/his pronoun; in my day-to-day life, you can find me solving common di
   <!-- <p>If you're interested in finding out more about me and my work, you can check out <a href="https://philipprochazka.cz" target="_blank">my portfolio</a>.</p> -->
 
 <a href="https://domovdecor.cz" target="_blank">home decor stuff</a>.</p>
-<a href="https://www.facebook.com/DomovDecor" target="blank"><img align="center" src="https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-1/274481586_5082288761833906_6275847687259659249_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=102&ccb=1-7&_nc_sid=e8ff23&_nc_ohc=PHk0Qhx7s8oQ7kNvgHkvS6p&_nc_ht=scontent-prg1-1.xx&oh=00_AYBVKLy_Ew4aZojwQuoV37ZBKLrmN6dEo0A3Y_7vdCzx2A&oe=66B82F89" alt="Domov-Decor fb" height="30" width="40" /></a>
+<a href="https://www.facebook.com/DomovDecor" target="blank"><img align="center" src="https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-6/274481586_5082288761833906_6275847687259659249_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=PHk0Qhx7s8oQ7kNvgHkvS6p&_nc_ht=scontent-prg1-1.xx&oh=00_AYBA6zIGbuqVUT73HheleeaqjNqjG6QNMKzLGVLPPoKKGA&oe=66B83C4B" alt="Domov-Decor fb" height="70" width="´70" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipprochazka&label=Profile%20views&color=0e75b6&style=flat" alt="philipprochazka" /> </p>
 <!-- <p><img align="center" src="https://github.com/philipprochazka/philipprochazka/blob/main/sm2191.jpg" alt="PhilipProcházka" height="840" width="560x" /></--->
 <h3 align="left">Connect with me:</h3>
