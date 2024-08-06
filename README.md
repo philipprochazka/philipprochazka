@@ -29,7 +29,7 @@ I go by he/his pronoun; in my day-to-day life, you can find me solving common di
 <h3 align="left">⚡ Database</h3>
 
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
-🧐 Linters
+<h3 align="left">🧐 Linters</h3>
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> 
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
 <h3 align="left">🖍 Design</h3>
