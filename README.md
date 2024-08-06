@@ -10,7 +10,7 @@ I go by he/his pronoun; in my day-to-day life, you can find me solving common di
 <!-- <p><img align="center" src="https://github.com/philipprochazka/philipprochazka/blob/main/sm2191.jpg" alt="PhilipProcházka" height="840" width="560x" /></--->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/PhilipProcházka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="PhilipProcházka" height="30" width="40" /></a>
+<!--<a href="https://dev.to/PhilipProcházka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="PhilipProcházka" height="30" width="40" /></a></--->
 <a href="https://twitter.com/PhilipProcházka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PhilipProcházka" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Philip-Procházka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Philip-Procházka" height="30" width="40" /></a>
 <a href="https://dribbble.com/niceyannick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="niceyannick" height="30" width="40" /></a>
