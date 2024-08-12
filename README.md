@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/philipprochazka/philipprochazka/blob/main/meow_wave_peak.png" height="32"/> My name`s Philip Procházka</h1>
-<h2>My name`s Philip Procházka</h2>
+<h1 align="center">Hi <img src="https://github.com/philipprochazka/philipprochazka/blob/main/meow_wave_peak.png" height="32"/></h1>
 <h3 align="center">Designer, IT administrator & entrepreneur.</h3>
 I don`t see myself as a real developer & English Ain`t my native language, but I did get good at it.
 I see myself more as a Slowly learning Individual that doesn`t hesitate Exploring Unknown Technologies nor Digging deep in Complex rabbit-holes... I've been Messing around Computers and IT Networks and generally Electronics since early childhood and I continue to do so with eager & passion. During my career, I had the pleasure to work with several different companies and amazing colleagues who guided me along the way. Besides Product-Photography & Scalable graphics I had to learn for work, I also try to spend my time coding for good, I love searching for extreme gimmicks & implementing them to anything Linux & Windows,FreeBSD,Android  simply anywhere.I did hoard over the years  Various tweaks and other gems for the variety of knowledge I did learn. I love designing creating environments for unique applications.
