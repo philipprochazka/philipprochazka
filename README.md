@@ -84,9 +84,6 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
       <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
     </td>
     <td style="text-align: center;">
-      <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
       <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     </td>
     <td style="text-align: center;">
@@ -110,10 +107,6 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
       <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td style="text-align: center;" colspan="5">
-      <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
   </tr>
 </table>
 <h3 align="left">💻 OS</h3>
