@@ -79,8 +79,8 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
         <td style="text-align: center;">
       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
-  </tr>
-    <tr><h3 align="left">🖍 Design writing Frameworks</h3>
+  </tr><table style="width:100%; border-spacing: 10px; border-collapse: separate;">
+    <h3 align="left">🖍 Design writing Frameworks</h3><tr>
     <td style="text-align: center;">
       <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     </td>
