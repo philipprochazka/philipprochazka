@@ -1,6 +1,6 @@
 <!-- Welcome Header -->
 <header style="text-align: center;">
-  <h1>Welcome to my GitHub Profile</h1>
+<h1 align="center">Welcome to my GH-Profile <img src="https://github.com/philipprochazka/philipprochazka/blob/main/meow_wave_peak.png" height="32"/></h1>
   <h3>Designer, IT Administrator & Entrepreneur</h3>
 </header>
 
