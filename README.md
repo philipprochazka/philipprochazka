@@ -16,12 +16,29 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   
 <h3 align="left">👨 Social</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<!--<a href="https://dev.to/PhilipProcházka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="PhilipProcházka" height="30" width="40" /></a></--->
-<a href="https://twitter.com/PhilipProcházka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PhilipProcházka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Philip-Procházka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Philip-Procházka" height="30" width="40" /></a>
-<a href="https://dribbble.com/niceyannick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="niceyannick" height="30" width="40" /></a>
+<table style="width:100%; border-spacing: 10px; border-collapse: separate;">
+  <tr>
+    <td style="text-align: center;">
+      <img alt="Linkedin" href="https://www.linkedin.com/in/philip-procházka-4a48b9124/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </td>
+    </td>
+    <td style="text-align: center;">
+      <img alt="Twitter" href="https://x.com/ProchazkaPhilip" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Facebook" href="https://www.facebook.com/phprochazka" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Youtube" href="https://www.youtube.com/@PhilipProchazka" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Twitch" href="https://www.twitch.tv/skunknr2" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+    </td>
+  </tr>
+
 </p>
 <h3>When I code, I rely on</h3>
 <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
