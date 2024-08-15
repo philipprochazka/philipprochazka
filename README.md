@@ -2,7 +2,7 @@
 <header style="text-align: center;">
 <h1 align="left">Welcome to my GH-Profile <img src="https://github.com/philipprochazka/philipprochazka/blob/main/meow_wave_peak.png" height="32"/></h1>
   <h3>Designer, IT Administrator & Entrepreneur</h3>
- <img src= https://forthebadge.com/images/badges/built-with-love.svg/>
+ <img alt="built-with-love" img src= https://forthebadge.com/images/badges/built-with-love.svg />
 </header>
 
 <!-- Skills Section -->
