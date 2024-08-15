@@ -1,184 +1,161 @@
-  <html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="github Profile Page" />
-        <meta name="author" content="Philip Procházka" />
-  <!--  Font Awesome icons (free version)-->
- <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
- <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
-        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-     </head>
-  <!-- -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="GitHub Profile Page">
+    <meta name="author" content="Philip Procházka">
+    <!-- Font Awesome icons -->
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+    <title>Philip Procházka - GitHub Profile</title>
+</head>
+
 <body>
-<h1 align="center">Welcome to my GH-Profile <img src="https://github.com/philipprochazka/philipprochazka/blob/main/meow_wave_peak.png" height="32"/></h1>
-<h3 align="center">Designer, IT administrator & entrepreneur.</h3>
-I don`t see myself as a real developer & English Ain`t my native language, but I did get good at it.
-I see myself more as a Slowly learning Individual that doesn`t hesitate Exploring Unknown Technologies nor Digging deep in Complex rabbit-holes... I've been Messing around Computers and IT Networks and generally Electronics since early childhood and I continue to do so with eager & passion. During my career, I had the pleasure to work with several different companies and amazing colleagues who guided me along the way. Besides Product-Photography & Scalable graphics I had to learn for work, I also try to spend my time coding for good, I love searching for extreme gimmicks & implementing them to anything Linux & Windows,FreeBSD,Android  simply anywhere.I did hoard over the years  Various tweaks and other gems for the variety of knowledge I did learn. I love designing creating environments for unique applications.
-  I always strive to create entertainment & goodies for me & my beloved ones.
-  <!-- <p>If you're interested in finding out more about me and my work, you can check out <a href="https://philipprochazka.cz" target="_blank">my portfolio</a>.</p> -->
+    <header style="text-align: center;">
+        <h1>Welcome to my GitHub Profile <img src="https://github.com/philipprochazka/philipprochazka/blob/main/meow_wave_peak.png" height="32" alt="Wave emoji" /></h1>
+        <h3>Designer, IT Administrator & Entrepreneur</h3>
+    </header>
 
-<a href="https://domov-decor.cz" target="_blank">home decor stuff</a>.</p>
-<a href="https://www.facebook.com/DomovDecor" target="blank"><img align="center" src="https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-6/274481586_5082288761833906_6275847687259659249_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=PHk0Qhx7s8oQ7kNvgHkvS6p&_nc_ht=scontent-prg1-1.xx&oh=00_AYBA6zIGbuqVUT73HheleeaqjNqjG6QNMKzLGVLPPoKKGA&oe=66B83C4B" alt="Domov-Decor fb" height="70" width="´70" /></a>
+    <section style="padding: 20px;">
+        <p>I don’t see myself as a real developer & English isn’t my native language, but I did get good at it.</p>
+        <p>
+            I see myself as a slow learner who doesn’t hesitate to explore unknown technologies or dig deep into complex rabbit holes. I’ve been messing around with computers, IT networks, and electronics since early childhood, and I continue to do so with passion. During my career, I’ve had the pleasure of working with several different companies and amazing colleagues who have guided me along the way.
+        </p>
+        <p>
+            Besides product photography & scalable graphics, which I had to learn for work, I also try to spend my time coding for good. I love searching for extreme gimmicks & implementing them into anything Linux, Windows, FreeBSD, Android – simply anywhere. Over the years, I’ve hoarded various tweaks and gems of knowledge. I love designing and creating environments for unique applications. I always strive to create entertainment & goodies for me & my loved ones.
+        </p>
+        <p>If you're interested in finding out more about me and my work, you can check out <a href="https://philipprochazka.cz" target="_blank" rel="noopener noreferrer">my portfolio</a>.</p>
+        <p>Also, check out my <a href="https://domov-decor.cz" target="_blank" rel="noopener noreferrer">home decor stuff</a>.</p>
+    </section>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=philipprochazka&label=Profile%20views&color=0e75b6&style=flat" alt="philipprochazka" /> </p>
-<!-- <p><img align="center" src="https://github.com/philipprochazka/philipprochazka/blob/main/sm2191.jpg" alt="PhilipProcházka" height="840" width="560x" /></--->
-<h3 align="left">Connect with me:</h3>
-  <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
-<h3 align="left"📱 Contact</h3>
-  <tr>
-    <td style="text-align: center;">
-      <img alt="Gmail" href="https://www.linkedin.com/in/philip-procházka-4a48b9124/" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </td>
-    </td>
-    <td style="text-align: center;">
-      <img alt="Outlook" href="https://x.com/ProchazkaPhilip" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-    </td>
-<table style="width:100%; border-spacing: 10px; border-collapse: separate;">
-<h3 align="left">👨 Social</h3>
-  <tr>
-    <td style="text-align: center;">
-      <img alt="Linkedin" href="https://www.linkedin.com/in/philip-procházka-4a48b9124/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </td>
-    </td>
-    <td style="text-align: center;">
-      <img alt="Twitter" href="https://x.com/ProchazkaPhilip" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Facebook" href="https://www.facebook.com/phprochazka" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Youtube" href="https://www.youtube.com/@PhilipProchazka" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Twitch" href="https://www.twitch.tv/skunknr2" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-    </td>
-  </tr>
-<p></p>
-<table style="width:100%; border-spacing: 10px; border-collapse: separate;">
-<h3 align="left">📝 When I code, I rely on</h3>
-  <tr>
-    <tr>
-    <td style="text-align: center;">
-      <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-        <td style="text-align: center;">
-      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    </td>
-        <td style="text-align: center;">
-      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    </td>
-  </tr><table style="width:100%; border-spacing: 10px; border-collapse: separate;">
-    <h3 align="left">🖍 Design writing Frameworks</h3><tr>
-    <td style="text-align: center;">
-      <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-    </td>
-        <td style="text-align: center;">
-      <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-    </td>
-  </tr>
-        <td style="text-align: center;">
-      <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  </td>
-<td style="text-align: center;">
-<img alt="Postcss" src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" />
-</td>
-<td style="text-align: center;">
-<img alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
-</td>
-<td style="text-align: center;">
-<img alt="Material Design" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" />
-</td>
-<td style="text-align: center;">
-<img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</td>
-  </tr>
-  <tr>
-  </td>
-    <td style="text-align: center;">
-      <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-    </td>
-  </tr>
+    <section style="padding: 20px;">
+        <h3>Connect with me:</h3>
+        <p>
+            <a href="https://www.facebook.com/DomovDecor" target="_blank" rel="noopener noreferrer">
+                <img src="https://scontent-prg1-1.xx.fbcdn.net/v/t39.30808-6/274481586_5082288761833906_6275847687259659249_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=PHk0Qhx7s8oQ7kNvgHkvS6p&_nc_ht=scontent-prg1-1.xx&oh=00_AYBA6zIGbuqVUT73HheleeaqjNqjG6QNMKzLGVLPPoKKGA&oe=66B83C4B" alt="Domov Decor Facebook" height="70" width="70">
+            </a>
+        </p>
+        <p>
+            <img src="https://komarev.com/ghpvc/?username=philipprochazka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
+        </p>
+    </section>
 
-  </tr>
-</table>
-<table style="width:100%; border-spacing: 10px; border-collapse: separate;">
-<h3 align="left">💻 OS</h3>
-  <tr>
-    <td style="text-align: center;">
-      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Arch-Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    </td>
-       <td style="text-align: center;">
-      <img alt="Debian Linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-    </td>
-     </tr>
-  </tr>
-<h3 align="left">⚡ Database</h3>
+    <section style="padding: 20px;">
+        <h3>📱 Contact</h3>
+        <table style="width: 100%; border-spacing: 10px; border-collapse: separate;">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="mailto:your-email@example.com">
+                        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+                    </a>
+                </td>
+                <td style="text-align: center;">
+                    <a href="https://outlook.live.com/" target="_blank" rel="noopener noreferrer">
+                        <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </section>
 
-<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
-<h3 align="left">🧐 Linters</h3>
-<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /> 
-<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-<h3 align="left">🖍 Design GUI tools used from Adobe </h3>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-<h3 align="left">🖍 Design GUI tools used FOSS </h3>
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+    <section style="padding: 20px;">
+        <h3>👨 Social</h3>
+        <table style="width: 100%; border-spacing: 10px; border-collapse: separate;">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="https://www.linkedin.com/in/philip-procházka-4a48b9124/" target="_blank" rel="noopener noreferrer">
+                        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+                    </a>
+                </td>
+                <td style="text-align: center;">
+                    <a href="https://x.com/ProchazkaPhilip" target="_blank" rel="noopener noreferrer">
+                        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+                    </a>
+                </td>
+                <td style="text-align: center;">
+                    <a href="https://www.facebook.com/phprochazka" target="_blank" rel="noopener noreferrer">
+                        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+                    </a>
+                </td>
+                <td style="text-align: center;">
+                    <a href="https://www.youtube.com/@PhilipProchazka" target="_blank" rel="noopener noreferrer">
+                        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+                    </a>
+                </td>
+                <td style="text-align: center;">
+                    <a href="https://www.twitch.tv/skunknr2" target="_blank" rel="noopener noreferrer">
+                        <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </section>
 
-<h3 align="left">🚀 Frameworks & Library</h3>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />  
-  <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"/
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> 
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> 
-  
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+    <section style="padding: 20px;">
+        <h3>📝 When I code, I rely on</h3>
+        <table style="width: 100%; border-spacing: 10px; border-collapse: separate;">
+            <tr>
+                <td style="text-align: center;">
+                    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+                </td>
+                <td style="text-align: center;">
+                    <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+                </td>
+                <td style="text-align: center;">
+                    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+                </td>
+                <td style="text-align: center;">
+                    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+                </td>
+                <td style="text-align: center;">
+                    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+                </td>
+                <td style="text-align: center;">
+                    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+                </td>
+            </tr>
+        </table>
+    </section>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PhilipProchazka&show_icons=true&locale=en&layout=compact" alt="philipprochazka" /></p>
+    <section style="padding: 20px;">
+        <h3>🖍 Design Writing Frameworks</h3>
+        <table style="width: 100%; border-spacing: 10px; border-collapse: separate;">
+            <tr>
+                <td style="text-align: center;">
+                    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000?style=flat-square&logo=markdown" />
+                </td>
+                <td style="text-align: center;">
+                    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+                </td>
+                <td style="text-align: center;">
+                    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
+                </td>
+                <td style="text-align: center;">
+                    <img alt="SASS" src="https://img.shields.io/badge/-SASS-cc6699?style=flat-square&logo=sass&logoColor=white" />
+                </td>
+                <td style="text-align: center;">
+                    <img alt="SVG" src="https://img.shields.io/badge/-SVG-FFB13B?style=flat-square&logo=svg" />
+                </td>
+            </tr>
+        </table>
+    </section>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=philipprochazka&show_icons=true&locale=en" alt="philipprochazka" /></p>
-
+    <footer style="padding: 20px; text-align: center;">
+        <h3>My GitHub Stats</h3>
+        <p>
+            <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=philipprochazka&theme=dark" />
+        </p>
+        <p>
+            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=philipprochazka&count_private=true&show_icons=true&theme=dark" />
+        </p>
+        <p>
+            <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipprochazka&layout=compact&theme=dark" />
+        </p>
+    </footer>
 </body>
+
+</html>
