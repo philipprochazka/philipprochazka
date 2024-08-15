@@ -1,3 +1,18 @@
+  <html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="github Profile Page" />
+        <meta name="author" content="Philip Procházka" />
+  <!--  Font Awesome icons (free version)-->
+ <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+ <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+     </head>
+  <!-- -->
+<body>
 <h1 align="center">Welcome to my GH-Profile <img src="https://github.com/philipprochazka/philipprochazka/blob/main/meow_wave_peak.png" height="32"/></h1>
 <h3 align="center">Designer, IT administrator & entrepreneur.</h3>
 I don`t see myself as a real developer & English Ain`t my native language, but I did get good at it.
@@ -45,11 +60,32 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
 <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
 <h3 align="left">📝 When I code, I rely on</h3>
   <tr>
+    <tr>
     <td style="text-align: center;">
-      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     </td>
     <td style="text-align: center;">
       <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+    <tr>
+    <td style="text-align: center;">
+      <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+    </td>
+  </tr>
+    <td style="text-align: center;">
+      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+        <td style="text-align: center;">
+      <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+    <td style="text-align: center;">
+      <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
     </td>
     <td style="text-align: center;">
       <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
@@ -62,9 +98,7 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;">
-      <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-    </td>
+  </td>
     <td style="text-align: center;">
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     </td>
@@ -75,35 +109,26 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
       <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
     </td>
   </tr>
-  <tr>
-    <td style="text-align: center;">
-      <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-    </td>
-  </tr>
+
   </tr>
 </table>
+<table style="width:100%; border-spacing: 10px; border-collapse: separate;">
 <h3 align="left">💻 OS</h3>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <tr>
+    <td style="text-align: center;">
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Arch-Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    </td>
+       <td style="text-align: center;">
+      <img alt="Debian Linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+    </td>
+     </tr>
+  </tr>
 <h3 align="left">⚡ Database</h3>
 
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -148,3 +173,4 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=philipprochazka&show_icons=true&locale=en" alt="philipprochazka" /></p>
 
+</body>
