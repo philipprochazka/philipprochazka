@@ -70,6 +70,12 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
     <td style="text-align: center;">
       <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
     </td>
+        <td style="text-align: center;">
+      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    </td>
   </tr>
     <tr>
     <td style="text-align: center;">
@@ -78,24 +84,19 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
     <td style="text-align: center;">
       <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
     </td>
+        <td style="text-align: center;">
+      <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
+    </td>
   </tr>
     <td style="text-align: center;">
       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     </td>
         <td style="text-align: center;">
       <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-    <td style="text-align: center;">
-      <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    </td>
+
   </tr>
   <tr>
   </td>
