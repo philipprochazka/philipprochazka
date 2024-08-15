@@ -7,7 +7,7 @@
 <!-- Skills Section -->
 <section>
   <h2>Skills</h2>
-  <table style="width: 100%; border-spacing: 10px; border-collapse: separate;">
+  <table style="width: 100%; border-spacing: 10px; border-collapse: separate; border: none; box-shadow: none;">
     <tr>
       <td style="text-align: center;">
         <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000?style=flat-square&logo=markdown" />
