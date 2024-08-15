@@ -11,12 +11,18 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipprochazka&label=Profile%20views&color=0e75b6&style=flat" alt="philipprochazka" /> </p>
 <!-- <p><img align="center" src="https://github.com/philipprochazka/philipprochazka/blob/main/sm2191.jpg" alt="PhilipProcházka" height="840" width="560x" /></--->
 <h3 align="left">Connect with me:</h3>
+  <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
 <h3 align="left"📱 Contact</h3>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  
-<h3 align="left">👨 Social</h3>
+  <tr>
+    <td style="text-align: center;">
+      <img alt="Gmail" href="https://www.linkedin.com/in/philip-procházka-4a48b9124/" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </td>
+    </td>
+    <td style="text-align: center;">
+      <img alt="Outlook" href="https://x.com/ProchazkaPhilip" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    </td>
 <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
+<h3 align="left">👨 Social</h3>
   <tr>
     <td style="text-align: center;">
       <img alt="Linkedin" href="https://www.linkedin.com/in/philip-procházka-4a48b9124/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,9 +30,6 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
     </td>
     <td style="text-align: center;">
       <img alt="Twitter" href="https://x.com/ProchazkaPhilip" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td style="text-align: center;">
       <img alt="Facebook" href="https://www.facebook.com/phprochazka" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
