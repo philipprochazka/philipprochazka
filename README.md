@@ -76,8 +76,11 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
     <td style="text-align: center;">
       <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     </td>
+        <td style="text-align: center;">
+      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
   </tr>
-    <tr>
+    <tr><h3 align="left">🖍 Design writing Frameworks</h3>
     <td style="text-align: center;">
       <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     </td>
@@ -91,17 +94,22 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
       <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
     </td>
   </tr>
-    <td style="text-align: center;">
-      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    </td>
         <td style="text-align: center;">
       <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   </td>
 <td style="text-align: center;">
 <img alt="Postcss" src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" />
 </td>
+<td style="text-align: center;">
+<img alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
+</td>
+<td style="text-align: center;">
+<img alt="Material Design" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" />
+</td>
+<td style="text-align: center;">
+<img alt="Tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</td>
   </tr>
-
   <tr>
   </td>
     <td style="text-align: center;">
@@ -148,12 +156,7 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
 <h3 align="left">🖍 Design GUI tools used FOSS </h3>
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-<h3 align="left">🖍 Design writing Frameworks</h3>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src= "https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <img src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
 <h3 align="left">🚀 Frameworks & Library</h3>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
