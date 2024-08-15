@@ -40,7 +40,7 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
   </tr>
 
 </p>
-<h3>When I code, I rely on</h3>
+<h3 align="left">When I code, I rely on</h3>
 <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
   <tr>
     <td style="text-align: center;">
