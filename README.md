@@ -41,10 +41,9 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
       <img alt="Twitch" href="https://www.twitch.tv/skunknr2" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
     </td>
   </tr>
-
-</p>
-<h3 align="left">When I code, I rely on</h3>
+<p></p>
 <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
+<h3 align="left">📝 When I code, I rely on</h3>
   <tr>
     <td style="text-align: center;">
       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -57,23 +56,6 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
     </td>
     <td style="text-align: center;">
       <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Jest" src="https://img.shields.io/badge/-jest-be3d19?style=flat-square&logo=jest&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-ff62f6?style=flat-square&logo=Adobe%20XD&logoColor=white" />
     </td>
     <td style="text-align: center;">
       <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -92,17 +74,8 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
     <td style="text-align: center;">
       <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
     </td>
-    <td style="text-align: center;">
-      <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-    </td>
   </tr>
   <tr>
-    <td style="text-align: center;">
-      <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-    </td>
     <td style="text-align: center;">
       <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     </td>
@@ -119,9 +92,6 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
     </td>
     <td style="text-align: center;">
       <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    </td>
-    <td style="text-align: center;">
-      <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
     </td>
     <td style="text-align: center;">
       <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
