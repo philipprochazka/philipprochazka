@@ -27,7 +27,21 @@
     </tr>
   </table>
 </section>
-
+<!-- Contact Section -->
+<section>
+  <h2>📱 Contact</h2>
+<table style="width:100%; border-spacing: 10px; border-collapse: separate;">
+  <tr>
+    <td style="text-align: center;">
+      <img alt="Gmail" href="https://www.linkedin.com/in/philip-procházka-4a48b9124/" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </td>
+    </td>
+    <td style="text-align: center;">
+      <img alt="Outlook" href="https://x.com/ProchazkaPhilip" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    </td>
+        </tr>
+  </table>
+</section>
 <!-- GitHub Stats Section -->
 <footer style="padding: 20px; text-align: center;">
   <h3>My GitHub Stats</h3>
