@@ -96,8 +96,12 @@ I see myself more as a Slowly learning Individual that doesn`t hesitate Explorin
     </td>
         <td style="text-align: center;">
       <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-
+  </td>
+<td style="text-align: center;">
+<img alt="Postcss" src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" />
+</td>
   </tr>
+
   <tr>
   </td>
     <td style="text-align: center;">
