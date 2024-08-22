@@ -45,7 +45,7 @@
 </section>
 <!-- Social Section -->
 <section>
-  <h3 align="left">👨 Social</h3>
+  <h2 align="left">👨 Social</h2>
 <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
 
   <tr>
@@ -86,7 +86,11 @@
       <img alt="Debian Linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
     </td>
      </tr>
-  </table>
+  </table>  
+</section>
+<!-- Databases Section -->
+<section>
+
 </section>
 <!-- GitHub Stats Section -->
 <footer style="padding: 20px; text-align: center;">
