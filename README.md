@@ -95,7 +95,7 @@
 <h2 align="left">⚡ Database</h2>
  <tr>
     <td style="text-align: center;">
-      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+      <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
  </td>
      </tr>
   </table>
