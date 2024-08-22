@@ -102,7 +102,7 @@
 </section>
 <!-- GitHub Stats Section -->
 <footer style="padding: 20px; text-align: center;">
-  <h3>My GitHub Stats</h3>
+  <h2 align="left">My GitHub Stats</h2>
   <p>
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=philipprochazka&theme=dark" />
   </p>
