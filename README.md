@@ -69,6 +69,7 @@
 </table>
 </section>
 <!-- OS Section -->
+<section>
 <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
 <h3 align="left">💻 OS</h3>
   <tr>
@@ -86,8 +87,6 @@
     </td>
      </tr>
   </table>
-<section>
-
 </section>
 <!-- GitHub Stats Section -->
 <footer style="padding: 20px; text-align: center;">
