@@ -71,7 +71,7 @@
 <!-- OS Section -->
 <section>
 <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
-<h3 align="left">💻 OS</h3>
+<h2 align="left">💻 OS</h2>
   <tr>
     <td style="text-align: center;">
       <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -89,8 +89,16 @@
   </table>  
 </section>
 <!-- Databases Section -->
-<section>
 
+<section>
+<table style="width:100%; border-spacing: 10px; border-collapse: separate;">
+<h2 align="left">⚡ Database</h2>
+ <tr>
+    <td style="text-align: center;">
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+ </td>
+     </tr>
+  </table>
 </section>
 <!-- GitHub Stats Section -->
 <footer style="padding: 20px; text-align: center;">
