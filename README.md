@@ -45,9 +45,9 @@
 </section>
 <!-- Social Section -->
 <section>
-  <h2 align="left">👨 Social</h2>
+  <h3 align="left">👨 Social</h3>
 <table style="width:100%; border-spacing: 10px; border-collapse: separate;">
-<h3 </h3>
+
   <tr>
     <td style="text-align: center;">
       <img alt="Linkedin" href="https://www.linkedin.com/in/philip-procházka-4a48b9124/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -67,6 +67,27 @@
     </td>
   </tr>
 </table>
+</section>
+<!-- OS Section -->
+<table style="width:100%; border-spacing: 10px; border-collapse: separate;">
+<h3 align="left">💻 OS</h3>
+  <tr>
+    <td style="text-align: center;">
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Arch-Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    </td>
+    <td style="text-align: center;">
+      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    </td>
+       <td style="text-align: center;">
+      <img alt="Debian Linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+    </td>
+     </tr>
+  </table>
+<section>
+
 </section>
 <!-- GitHub Stats Section -->
 <footer style="padding: 20px; text-align: center;">
